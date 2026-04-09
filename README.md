@@ -97,4 +97,3 @@ Fiber-optic drones represent a sophisticated evolution in unmanned warfare, effe
 The five-layer defense model—comprising persistent detection, intelligent prediction, physical interception, fiber disruption, and asset hardening—offers a comprehensive solution. When implemented as an integrated system, it ensures high survivability, operational continuity, and tactical superiority in contested environments.
 
 This framework positions defense forces to not only respond to current threats but also adapt to future advancements in unmanned systems, maintaining strategic dominance in an increasingly complex battlespace.
-```
