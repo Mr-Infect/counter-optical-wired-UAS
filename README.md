@@ -1,4 +1,4 @@
-# 🇮🇳 Multi-Layered Counter Strategy Against Fiber-Optic Guided Drones
+# Multi-Layered Counter Strategy Against Fiber-Optic Guided Drones
 
 ## Executive Overview
 
